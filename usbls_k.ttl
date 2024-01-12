@@ -25,15 +25,15 @@
 <K1-> a skos:concept ;
  skos:preflabel "Archäologie und Antike Kunst"@de ;
  skos:altLabel "Archaeology"@en, "Ancient art"@en ;
- skos:notation "K1-" ;
+ skos:notation "K1-K999" ;
  skos:exactMatch <https://www.wikidata.org/wiki/Q23498> ;
  skos:broadMatch <https://www.wikidata.org/wiki/Q486761> ;
- skos:inScheme <scheme>.                      #unklar, wie zählung 1-999 aus yaml hier repräsentiert werden könnte, ebenso "heading: kunstgeschichte"
+ skos:inScheme <scheme>.                      #unklar, wie zählung 1-999 aus yaml hier repräsentiert werden könnte, erstmal alle stellen aufgenommen...ebenso "heading: kunstgeschichte"
 
 <K1000-> a skos:concept ;
  skos:prefLabel "Nachschlagewerke und Enzyklopädien" ;
  skos:altLabel "Lexika"@de, "Lexikon"@de, "Encyclopedia"@en, "Lexicon"@en ;
- skos:notation "K1000-" ;
+ skos:notation "K1000-K1499" ;
  skos:inScheme <scheme>.
 
 <K1500-> a skos:concept ;
