@@ -44,7 +44,7 @@
 
 <K1700-> a skos:concept ;
  skos:prefLabel "Quellenschriften"@de ;
- skos:altLabel "Quellen"@de ;
+ skos:altLabel "Quellen"@de, "sources"@en, "source writings"@en ;
  skos:notation "K1700-K1999" ;
  skos:inScheme <scheme>.
 
